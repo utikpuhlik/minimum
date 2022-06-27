@@ -7,3 +7,6 @@ Buy x10 demographics data and merge it to one file -> Input this file into "Inpu
 
 ![image](https://user-images.githubusercontent.com/85949628/175896468-3452c0ec-7e43-4344-a6f0-2b334bfe5336.png)
 
+![image](https://user-images.githubusercontent.com/85949628/175897995-56d55d0e-1262-469a-a826-ef55c5ffb8d4.png)
+
+
